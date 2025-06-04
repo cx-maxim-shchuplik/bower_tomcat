@@ -1,0 +1,8 @@
+{
+  "name": "bower-basic-cx",
+  "dependencies": {
+    "require-css": "0.1.1",
+    "ng-dialog": "0.5.6",
+    "font-awesome": "4.5.0"
+  }
+}
